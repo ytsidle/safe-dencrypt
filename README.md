@@ -5,7 +5,7 @@ safecrypt是一个专业加密解密库,只要一个密码,且拥有<u>庞大</u
 安装方法:
 
 ```bash
-pip install safecrypt
+pip install safe-dencrypt
 ```
 
 使用方法
